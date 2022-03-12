@@ -1,0 +1,436 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Ink",
+      "type": "Item",
+      "repeating_id": "-MfmsstTb03s7yesYWfn",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfn_itemname",
+          "current": "Ink",
+          "max": "",
+          "id": "-Mfmst2X-EYb04jGoIpL"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfn_itemcount",
+          "current": 1,
+          "max": "",
+          "id": "-Mfmst2Zkwv7l2Ahxv1h"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfn_itemproperties",
+          "current": "",
+          "max": "",
+          "id": "-Mfmst2_wDLcfYlIobI5"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfn_itemweight",
+          "current": 0,
+          "max": "",
+          "id": "-Mfmst2aMIHc0DitAl8v"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfn_itemcontent",
+          "current": "",
+          "max": "",
+          "id": "-Mfmst2c4Q6lB9Zbs43y"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfn_itemmodifiers",
+          "current": "Item Type: Adventuring Gear",
+          "max": "",
+          "id": "-Mfmst2duaNfX58Zcfd5"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfn_hasattack",
+          "current": 0,
+          "max": "",
+          "id": "-Mfmst2eBdqZClvS5ejg"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfn_useasresource",
+          "current": 0,
+          "max": "",
+          "id": "-Mfmst2f2obJ0LRJSU3H"
+        }
+      ]
+    },
+    {
+      "name": "Ink pen",
+      "type": "Item",
+      "repeating_id": "-MfmsstTb03s7yesYWfo",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfo_itemname",
+          "current": "Ink pen",
+          "max": "",
+          "id": "-Mfmst2h2s4PvpgBNzZb"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfo_itemcount",
+          "current": 1,
+          "max": "",
+          "id": "-Mfmst2jl4sr_XTNneNO"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfo_itemproperties",
+          "current": "",
+          "max": "",
+          "id": "-Mfmst2k_RxWBVaGRq_C"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfo_itemweight",
+          "current": 0,
+          "max": "",
+          "id": "-Mfmst2mYswHPRBiQxXT"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfo_itemcontent",
+          "current": "",
+          "max": "",
+          "id": "-Mfmst2owK6JrS56k9gx"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfo_itemmodifiers",
+          "current": "Item Type: Adventuring Gear",
+          "max": "",
+          "id": "-Mfmst2pOvUyEs3xa4gO"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfo_hasattack",
+          "current": 0,
+          "max": "",
+          "id": "-Mfmst2rZRIICw_lKJ0S"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstTb03s7yesYWfo_useasresource",
+          "current": 0,
+          "max": "",
+          "id": "-Mfmst2skRNM-0h1nOiZ"
+        }
+      ]
+    },
+    {
+      "name": "Parchment",
+      "type": "Item",
+      "repeating_id": "-MfmsstUhr7ot6o2H85Y",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MfmsstUhr7ot6o2H85Y_itemname",
+          "current": "Parchment",
+          "max": "",
+          "id": "-Mfmst2v818avmUCvDRD"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstUhr7ot6o2H85Y_itemcount",
+          "current": "5",
+          "max": "",
+          "id": "-Mfmst2x7m-bvDGXmB8V"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstUhr7ot6o2H85Y_itemproperties",
+          "current": "",
+          "max": "",
+          "id": "-Mfmst3-TNN8R93yR5nf"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstUhr7ot6o2H85Y_itemweight",
+          "current": 0,
+          "max": "",
+          "id": "-Mfmst30VZg0F71pdRsT"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstUhr7ot6o2H85Y_itemcontent",
+          "current": "",
+          "max": "",
+          "id": "-Mfmst32xr2U2v_cAYVF"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstUhr7ot6o2H85Y_itemmodifiers",
+          "current": "Item Type: Adventuring Gear",
+          "max": "",
+          "id": "-Mfmst33mLQki8nKpLDI"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstUhr7ot6o2H85Y_hasattack",
+          "current": 0,
+          "max": "",
+          "id": "-Mfmst346TpKB_8z1ihG"
+        },
+        {
+          "name": "repeating_inventory_-MfmsstUhr7ot6o2H85Y_useasresource",
+          "current": 0,
+          "max": "",
+          "id": "-Mfmst36dIuMR5Q0SuK5"
+        }
+      ]
+    },
+    {
+      "name": "Rapier",
+      "type": "Item",
+      "repeating_id": "-MtYhz52iWEiiNenGPvh",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MtYhz52iWEiiNenGPvh_itemname",
+          "current": "Rapier",
+          "max": "",
+          "id": "-MtYhz5D_yVGQUk2GdJR"
+        },
+        {
+          "name": "repeating_inventory_-MtYhz52iWEiiNenGPvh_itemcount",
+          "current": "2",
+          "max": "",
+          "id": "-MtYhz5IgW3X2iByCK9P"
+        },
+        {
+          "name": "repeating_inventory_-MtYhz52iWEiiNenGPvh_itemproperties",
+          "current": "Finesse",
+          "max": "",
+          "id": "-MtYhz5NWcqLLx0mV_OV"
+        },
+        {
+          "name": "repeating_inventory_-MtYhz52iWEiiNenGPvh_itemweight",
+          "current": "2",
+          "max": "",
+          "id": "-MtYhz5S5LSsBCzr5U67"
+        },
+        {
+          "name": "repeating_inventory_-MtYhz52iWEiiNenGPvh_itemcontent",
+          "current": "",
+          "max": "",
+          "id": "-MtYhz5XlmnsH_IDrsw-"
+        },
+        {
+          "name": "repeating_inventory_-MtYhz52iWEiiNenGPvh_itemmodifiers",
+          "current": "Item Type: Melee Weapon, Damage: 1d8, Damage Type: Piercing",
+          "max": "",
+          "id": "-MtYhz5bPVhnlm8Fi7Oz"
+        },
+        {
+          "name": "repeating_inventory_-MtYhz52iWEiiNenGPvh_hasattack",
+          "current": 1,
+          "max": "",
+          "id": "-MtYhz5g0hw4nYdg78Db"
+        },
+        {
+          "name": "repeating_inventory_-MtYhz52iWEiiNenGPvh_useasresource",
+          "current": 0,
+          "max": "",
+          "id": "-MtYhz5lIFEvzUe44zZ7"
+        },
+        {
+          "name": "repeating_inventory_-MtYhz52iWEiiNenGPvh_itemattackid",
+          "current": "-MtsgUK16u3ZBC7xGaS0",
+          "max": "",
+          "id": "-MtYhz60Huq270FlVmLu"
+        }
+      ]
+    },
+    {
+      "name": "The scholar's robe",
+      "type": "Item",
+      "repeating_id": "-Mfs6Uda0OkUOZAB6tMq",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-Mfs6Uda0OkUOZAB6tMq_itemname",
+          "current": "The scholar's robe",
+          "max": "",
+          "id": "-Mfs6V7llJbUt0xgB-QT"
+        }
+      ]
+    },
+    {
+      "name": "Wand of Magic Missiles",
+      "type": "Item",
+      "repeating_id": "-MxdPubdZut1RsZ5nPUi",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MxdPubdZut1RsZ5nPUi_itemname",
+          "current": "Wand of Magic Missiles",
+          "max": "",
+          "id": "-MxdPubiUHIY0zBJs4F-"
+        },
+        {
+          "name": "repeating_inventory_-MxdPubdZut1RsZ5nPUi_itemcount",
+          "current": 1,
+          "max": "",
+          "id": "-MxdPublgS3VtmRjlEnB"
+        },
+        {
+          "name": "repeating_inventory_-MxdPubdZut1RsZ5nPUi_itemproperties",
+          "current": "",
+          "max": "",
+          "id": "-MxdPuboDYnUnzfxHKjv"
+        },
+        {
+          "name": "repeating_inventory_-MxdPubdZut1RsZ5nPUi_itemweight",
+          "current": "1",
+          "max": "",
+          "id": "-MxdPubr8J_QAYOGzLHH"
+        },
+        {
+          "name": "repeating_inventory_-MxdPubdZut1RsZ5nPUi_itemcontent",
+          "current": " \n\t\t\t\t\t  Wand, uncommon  This wand has 7 charges. While holding it, you can use an action to expend 1 or more of its charges to cast the magic missile spell from it. For 1 charge, you cast the 1st-level version of the spell. You can increase the spell slot level by one for each additional charge you expend.\n\nThe wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into ashes and is destroyed.\n\n\n\t\t\t\t ",
+          "max": "",
+          "id": "-MxdPubuHFn8zaG4JlgH"
+        },
+        {
+          "name": "repeating_inventory_-MxdPubdZut1RsZ5nPUi_itemmodifiers",
+          "current": "Item Type: Adventuring Gear",
+          "max": "",
+          "id": "-MxdPubwgxLTd-eynmlc"
+        },
+        {
+          "name": "repeating_inventory_-MxdPubdZut1RsZ5nPUi_hasattack",
+          "current": 0,
+          "max": "",
+          "id": "-MxdPubzAtg8_Ss2JrCX"
+        },
+        {
+          "name": "repeating_inventory_-MxdPubdZut1RsZ5nPUi_useasresource",
+          "current": 0,
+          "max": "",
+          "id": "-MxdPuc1WAn7U6j3R-sQ"
+        }
+      ]
+    },
+    {
+      "name": "bedroll",
+      "type": "Item",
+      "repeating_id": "-Mrc6G367gqFWyfDm5iK",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-Mrc6G367gqFWyfDm5iK_itemname",
+          "current": "bedroll",
+          "max": "",
+          "id": "-Mrc6GsDdjlT_mWfoM4x"
+        }
+      ]
+    },
+    {
+      "name": "diamond",
+      "type": "Item",
+      "repeating_id": "-MtYZ1od4YXLe-yfUfLj",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MtYZ1od4YXLe-yfUfLj_itemcount",
+          "current": "2",
+          "max": "",
+          "id": "-MtY_2jS5-5ppfmM5JCj"
+        },
+        {
+          "name": "repeating_inventory_-MtYZ1od4YXLe-yfUfLj_itemname",
+          "current": "diamond",
+          "max": "",
+          "id": "-MtY_3wCZtDW209-tsrV"
+        }
+      ]
+    },
+    {
+      "name": "duplicates",
+      "type": "Item",
+      "repeating_id": "-mgcgvdf1jzaxcv1swd5",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-mgcgvdf1jzaxcv1swd5_itemname",
+          "current": "duplicates",
+          "max": "",
+          "id": "-MtsgVWARjsMqqJS3xHd"
+        },
+        {
+          "name": "repeating_inventory_-mgcgvdf1jzaxcv1swd5_itemcount",
+          "current": "2",
+          "max": "",
+          "id": "-MtsgVWLr4ZERKyMSrg_"
+        }
+      ]
+    },
+    {
+      "name": "fine clothes",
+      "type": "Item",
+      "repeating_id": "-MgVuJmHGCYmovhuVw4m",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MgVuJmHGCYmovhuVw4m_itemname",
+          "current": "fine clothes",
+          "max": "",
+          "id": "-MgVuKqdhvq7hr7V9an8"
+        }
+      ]
+    },
+    {
+      "name": "healing potion",
+      "type": "Item",
+      "repeating_id": "-MtYhgZgB7uZGw6C7n5u",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MtYhgZgB7uZGw6C7n5u_itemcount",
+          "current": "0",
+          "max": "",
+          "id": "-MtYhhT0ieiTRinaJqoF"
+        },
+        {
+          "name": "repeating_inventory_-MtYhgZgB7uZGw6C7n5u_itemname",
+          "current": "healing potion",
+          "max": "",
+          "id": "-MtYhkHl5MsTWeUPqbVv"
+        }
+      ]
+    },
+    {
+      "name": "journalist pass Shan Chien ",
+      "type": "Item",
+      "repeating_id": "-MvdocHh-vMNTw0DsT0d",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MvdocHh-vMNTw0DsT0d_itemname",
+          "current": "journalist pass Shan Chien ",
+          "max": "",
+          "id": "-Mvdov9APksSZC4-5H7i"
+        }
+      ]
+    },
+    {
+      "name": "pearl",
+      "type": "Item",
+      "repeating_id": "-MxZSZneKzS6rHzB1Su0",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MxZSZneKzS6rHzB1Su0_itemname",
+          "current": "pearl",
+          "max": "",
+          "id": "-MxZSaJq2FC4h0snybd1"
+        }
+      ]
+    },
+    {
+      "name": "spellbook",
+      "type": "Item",
+      "repeating_id": "-MtYi1VNW9RWHbqRcKFE",
+      "old_character_id": "-MfZIFIF8A8fc_v8_qj4",
+      "attributes": [
+        {
+          "name": "repeating_inventory_-MtYi1VNW9RWHbqRcKFE_itemname",
+          "current": "spellbook",
+          "max": "",
+          "id": "-MtYi2s_JHyG2i9PvRuC"
+        }
+      ]
+    }
+  ]
+}
